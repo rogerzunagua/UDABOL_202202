@@ -27,7 +27,6 @@ Walter Edenilson Ramos Amaya 0033970
 Andres Arturo Gutierrez Copa 9899773
 
 Beymar Antonio Aliaga Choque 7041610
-
 Jose Miguel Loza Troncoso 12669252
 Mauricio Patrik Plata Gutierrez 10931935
 Jorge Romario Jamachi Varela 6920030
@@ -41,6 +40,7 @@ cristian ariel huanca quispe 9110161
 mikaela aramayo 9911855
 Joel Torrico Huayhuati 9459513
 jefferson canaviri luna 10954950
+Roger Ivan Zuñagua Suntura 3492523
 Samuel Paniagua Ala 8028972
 JOSE MARIA GOMES PERALTA CI:8257209
 Kenneth Egon Tercero Ortiz - CI: 5860714
